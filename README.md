@@ -1,5 +1,7 @@
 # Resume from AWS S3 and CloudFront :
 
+Here is the Link of my Resume from S3 Endpoint: http://anil-kumar.com.s3-website-us-east-1.amazonaws.com/
+
 In this Repo, i will explain how to host your resume on AWS S3 and use CloudFront to distribute it globally.
 
 Prerequisites:

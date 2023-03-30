@@ -108,7 +108,9 @@ Step 5: Test your Distribution
 
 ![Screenshot-15](https://user-images.githubusercontent.com/98457309/228796982-4d149f7e-8a51-41d1-8b8f-707451af3286.png)
 
-3. Verify that your resume is displayed correctly
+3. Verify that your resume is displayed correctly. In the below picture, you can see that you are viewind resume from the CloudFront Distribution Domain Name.
+
+![Screenshot (8)](https://user-images.githubusercontent.com/98457309/228802375-7f5d884c-3cd2-40f6-b7c2-f165e4e7990e.png)
 
 (Optional)
 
